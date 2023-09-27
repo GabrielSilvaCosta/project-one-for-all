@@ -1,10 +1,1 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Este projeto se concentra na criação e normalização de um banco de dados fictício chamado "SpotifyClone". O objetivo principal é fornecer um exemplo prático de como projetar e construir um banco de dados para um aplicativo de streaming de música fictício. O banco de dados inclui tabelas para armazenar informações sobre assinaturas, artistas, álbuns, faixas, clientes, seguidores e histórico de reprodução.
